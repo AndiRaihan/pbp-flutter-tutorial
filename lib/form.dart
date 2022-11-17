@@ -1,4 +1,4 @@
-import 'package:lab_pertama_flutter/main.dart';
+import 'package:lab_pertama_flutter/page/main.dart';
 import 'package:flutter/material.dart';
 
 class MyFormPage extends StatefulWidget {
